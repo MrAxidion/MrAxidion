@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm a Cybersecurity Enthusiast 👋
 
-<!--
-**MrAxidion/MrAxidion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about **Information Security** and currently focused on learning and improving my skills in cybersecurity.
 
-Here are some ideas to get you started:
+### 🔐 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Information Security
+* Penetration Testing
+* Ethical Hacking
+* Network Security
+* Vulnerability Assessment
+* malware Development
+
+### 🛠️ Currently Learning
+
+* Web Application Security
+* Network & System Security
+* OSCP
+* CTFs & Practical Labs
+
+### 🎯 Goal
+
+Continuously learn, build, and gain practical experience in cybersecurity while exploring how to identify and secure vulnerabilities.
+
+> **Learn • Practice • Secure** 🔐
